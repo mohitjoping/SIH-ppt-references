@@ -1,2 +1,2 @@
 # SIH-ppt-references
-all you need to star this repo so that it will help everyone
+all you need to star this repo so that it will help others participant also.
